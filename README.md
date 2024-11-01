@@ -3,7 +3,7 @@
 1. **Clone the repository:**
    ```bash
    $ git clone https://github.com/Artiquee/Site-Scraper-Example.git
-   cd FastAPITestWorkv1
+   cd FastAPITest
 2. **Install dependencies:**
    ```bash
    $ pip install -r requirements.txt
